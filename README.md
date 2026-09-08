@@ -87,6 +87,13 @@ All the unit conversion and rounding lives in one shared module with unit tests.
 deliberate: a unit-conversion bug is the single failure mode that would quietly waste people's
 money, so it is the one part of the codebase that is covered by tests rather than by care.
 
+## Sister site
+
+[theprintablehome.com](https://theprintablehome.com) — the same jobs from the other end. Work out
+how much to buy here, print the paperwork there: the quote you hand a client, the punch list you
+walk before final payment, the maintenance calendar for the thing you just built.
+([source](https://github.com/airootkit/printable-home-checklists))
+
 ## What these are not
 
 Estimating tools, not engineering calculations. They will tell you how many bags of concrete a slab
