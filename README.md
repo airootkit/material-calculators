@@ -66,9 +66,6 @@ Each tool page cites its sources and carries the date the figures were last chec
 
 ## How it is built
 
-A static site: [Astro](https://astro.build) for the pages, Vue islands for the calculators,
-Tailwind for styling, deployed on Cloudflare Pages.
-
 The interesting part is the plug-in structure. Adding a calculator is **one directory and three
 files** — no framework code changes anywhere:
 
